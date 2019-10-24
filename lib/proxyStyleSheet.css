@@ -1,0 +1,51 @@
+#davidsDisplay{
+    display: block;
+   
+    
+    
+
+}
+
+#centerModules{
+
+    width: 1200px;
+
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    position: absolute;
+    top: 393px;
+    left: 1.5%;
+    right: 1.5%;
+
+
+    
+}
+
+#comments{
+    display: inline-block;
+    float: left;
+}
+
+#Sidebar {
+    display: block;
+    width: 400px;
+    height: 700px;
+    margin-top: -10px;
+    float: right;
+    box-sizing: border-box;
+}
+
+.relatedTrackBlockContainer{
+    display: block;
+    width: 300px;
+    height: 500px;
+    margin: auto;
+}
+
+/* #lilysComponentHolder{
+
+    position: fixed;
+    bottom: 0px;
+
+} */
