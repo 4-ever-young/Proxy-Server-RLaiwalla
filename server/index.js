@@ -5,7 +5,7 @@ const PORT = 3132;
 
 const app =  express();
 
-app.use(express.static('/Users/rahimlaiwalla/Hack Reactor/Proxy-Server-RLaiwalla/lib'));
+app.use(express.static(__dirname + '/../lib'));
 // app.use(cors());
 
 
